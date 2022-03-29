@@ -31,3 +31,10 @@
 ```
 对处理好的数据进行可视化
 ```
+![](https://b2.kuibu.net/file/imgdisk/imgs/2022/03/16477f0f7e61e7ab.png)
+
+![](https://b2.kuibu.net/file/imgdisk/imgs/2022/03/3c78157261976b3c.png)
+
+![](https://b2.kuibu.net/file/imgdisk/imgs/2022/03/11b3c303f972f8a5.png)
+
+![](https://b2.kuibu.net/file/imgdisk/imgs/2022/03/3042ba5f5819714f.png)
