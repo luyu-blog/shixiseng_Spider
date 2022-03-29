@@ -1,0 +1,1822 @@
+[
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "北京",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "广州",
+        "salary": 125,
+        "time": "12"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "福州",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "不限",
+        "city": "北京",
+        "salary": 215,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "广州",
+        "salary": 175,
+        "time": "6"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "不限",
+        "city": "北京",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 225,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "大专",
+        "city": "大连",
+        "salary": 135,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "大专",
+        "city": "苏州",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "大专",
+        "city": "苏州",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "南京",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 135,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "不限",
+        "city": "西安",
+        "salary": 165,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "全国",
+        "salary": 300,
+        "time": "2"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 200,
+        "time": "5"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "深圳",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "南京",
+        "salary": 225,
+        "time": "6"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "深圳",
+        "salary": 175,
+        "time": "6"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "不限",
+        "city": "天津",
+        "salary": 240,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "大专",
+        "city": "日照",
+        "salary": 100,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 300,
+        "time": "1"
+    },
+    {
+        "positionName": "运维工程师（通州）",
+        "education": "不限",
+        "city": "北京",
+        "salary": 175,
+        "time": "6"
+    },
+    {
+        "positionName": ".net运维开发工程师",
+        "education": "本科",
+        "city": "广州",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "运维开发工程师",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 400,
+        "time": "3"
+    },
+    {
+        "positionName": "桌面运维工程师",
+        "education": "大专",
+        "city": "惠州",
+        "salary": 165,
+        "time": "6"
+    },
+    {
+        "positionName": "仪表运维工程师（通州）",
+        "education": "不限",
+        "city": "北京",
+        "salary": 175,
+        "time": "6"
+    },
+    {
+        "positionName": "桌面运维工程师",
+        "education": "本科",
+        "city": "广州",
+        "salary": 140,
+        "time": "3"
+    },
+    {
+        "positionName": "初级运维工程师",
+        "education": "大专",
+        "city": "北京",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师实习",
+        "education": "本科",
+        "city": "上海",
+        "salary": 250,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师（实习生）",
+        "education": "本科",
+        "city": "深圳",
+        "salary": "100",
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师实习生",
+        "education": "不限",
+        "city": "南京",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习工程师",
+        "education": "本科",
+        "city": "北京",
+        "salary": 165,
+        "time": "5"
+    },
+    {
+        "positionName": "运维实习工程师",
+        "education": "本科",
+        "city": "佛山",
+        "salary": 135,
+        "time": "6"
+    },
+    {
+        "positionName": "linux运维工程师",
+        "education": "本科",
+        "city": "广州",
+        "salary": 160,
+        "time": "3"
+    },
+    {
+        "positionName": "初级运维开发工程师",
+        "education": "大专",
+        "city": "淮安",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "网络运维工程师",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 75,
+        "time": "3"
+    },
+    {
+        "positionName": "交易运维工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": "200",
+        "time": "3"
+    },
+    {
+        "positionName": "基础架构运维工程师",
+        "education": "本科",
+        "city": "成都",
+        "salary": 275,
+        "time": "6"
+    },
+    {
+        "positionName": "运维工程师（上海）",
+        "education": "本科",
+        "city": "上海",
+        "salary": 125,
+        "time": "4"
+    },
+    {
+        "positionName": "网络运维工程师",
+        "education": "大专",
+        "city": "南京",
+        "salary": 150,
+        "time": "7"
+    },
+    {
+        "positionName": "售后实施运维工程师",
+        "education": "不限",
+        "city": "杭州",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师（2023届）",
+        "education": "本科",
+        "city": "北京",
+        "salary": 225,
+        "time": "3"
+    },
+    {
+        "positionName": "游戏运维工程师",
+        "education": "本科",
+        "city": "苏州",
+        "salary": 250,
+        "time": "3"
+    },
+    {
+        "positionName": "网络运维工程师（实习）",
+        "education": "大专",
+        "city": "六安",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "网络运维工程师（实习）",
+        "education": "大专",
+        "city": "大同",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": 400,
+        "time": "6"
+    },
+    {
+        "positionName": "测试运维工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 400,
+        "time": "2"
+    },
+    {
+        "positionName": "运维工程师-合肥",
+        "education": "本科",
+        "city": "合肥",
+        "salary": 110,
+        "time": "5"
+    },
+    {
+        "positionName": "运维开发工程师",
+        "education": "本科",
+        "city": "深圳",
+        "salary": 350,
+        "time": "2"
+    },
+    {
+        "positionName": "Linux运维工程师",
+        "education": "本科",
+        "city": "沈阳",
+        "salary": 100,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师（实习生）",
+        "education": "本科",
+        "city": "上海",
+        "salary": 215,
+        "time": "6"
+    },
+    {
+        "positionName": "运维服务工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 275,
+        "time": "3"
+    },
+    {
+        "positionName": "运维服务工程师",
+        "education": "本科",
+        "city": "福州",
+        "salary": 160,
+        "time": "3"
+    },
+    {
+        "positionName": "软件运维工程师",
+        "education": "本科",
+        "city": "福州",
+        "salary": 160,
+        "time": "3"
+    },
+    {
+        "positionName": "数据中心开发/运维工程师",
+        "education": "本科",
+        "city": "合肥",
+        "salary": 125,
+        "time": "9"
+    },
+    {
+        "positionName": "IT运维工程师",
+        "education": "本科",
+        "city": "广州",
+        "salary": 150,
+        "time": "6"
+    },
+    {
+        "positionName": "环境运维工程师",
+        "education": "本科",
+        "city": "西安",
+        "salary": 225,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师实习生",
+        "education": "不限",
+        "city": "上海",
+        "salary": "150",
+        "time": "12"
+    },
+    {
+        "positionName": "数通工程师/运维工程师",
+        "education": "不限",
+        "city": "广州",
+        "salary": 160,
+        "time": "1"
+    },
+    {
+        "positionName": "运维工程师（实习）",
+        "education": "本科",
+        "city": "福州",
+        "salary": 115,
+        "time": "3"
+    },
+    {
+        "positionName": "网络运维工程师（实习）",
+        "education": "大专",
+        "city": "宁波",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "【实习】运维工程师",
+        "education": "本科",
+        "city": "珠海",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "运维储备工程师",
+        "education": "本科",
+        "city": "杭州",
+        "salary": "180",
+        "time": "9"
+    },
+    {
+        "positionName": "网络运维工程师（实习）",
+        "education": "大专",
+        "city": "济南",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师DP22004",
+        "education": "大专",
+        "city": "成都",
+        "salary": 225,
+        "time": "6"
+    },
+    {
+        "positionName": "运维工程师JS22004",
+        "education": "大专",
+        "city": "成都",
+        "salary": 225,
+        "time": "6"
+    },
+    {
+        "positionName": "运维工程师（区块链）",
+        "education": "不限",
+        "city": "上海",
+        "salary": 200,
+        "time": "3"
+    },
+    {
+        "positionName": "大数据运维实习工程师",
+        "education": "本科",
+        "city": "北京",
+        "salary": 165,
+        "time": "5"
+    },
+    {
+        "positionName": "2022 暑期实习 - 设计工程师",
+        "education": "硕士",
+        "city": "重庆",
+        "salary": 135,
+        "time": "2"
+    },
+    {
+        "positionName": "2022 暑期实习 - 电控工程师",
+        "education": "硕士",
+        "city": "重庆",
+        "salary": 135,
+        "time": "2"
+    },
+    {
+        "positionName": "中级运维实习工程师",
+        "education": "大专",
+        "city": "广州",
+        "salary": 250,
+        "time": "3"
+    },
+    {
+        "positionName": "网络运维工程师（实习生）",
+        "education": "本科",
+        "city": "上海",
+        "salary": 165,
+        "time": "3"
+    },
+    {
+        "positionName": "​运维实习工程师",
+        "education": "本科",
+        "city": "北京",
+        "salary": 190,
+        "time": "4"
+    },
+    {
+        "positionName": "助理系统运维工程师",
+        "education": "本科",
+        "city": "广州",
+        "salary": 160,
+        "time": "6"
+    },
+    {
+        "positionName": "系统运维工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 150,
+        "time": "6"
+    },
+    {
+        "positionName": "服务运维实习工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "应用运维工程师（实习）",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 200,
+        "time": "6"
+    },
+    {
+        "positionName": "网络运维工程师（实习）",
+        "education": "大专",
+        "city": "西安",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "应用运维工程师（实习）",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 200,
+        "time": "6"
+    },
+    {
+        "positionName": "助理系统运维工程师",
+        "education": "本科",
+        "city": "广州",
+        "salary": 160,
+        "time": "6"
+    },
+    {
+        "positionName": "应用运维工程师（实习）",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 200,
+        "time": "6"
+    },
+    {
+        "positionName": "系统运维工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 150,
+        "time": "6"
+    },
+    {
+        "positionName": "IT技术支持/运维工程师",
+        "education": "大专",
+        "city": "南京",
+        "salary": 125,
+        "time": "12"
+    },
+    {
+        "positionName": "英思科-工程部实习生",
+        "education": "本科",
+        "city": "上海",
+        "salary": 165,
+        "time": "3"
+    },
+    {
+        "positionName": "网络运维工程师",
+        "education": "不限",
+        "city": "北京",
+        "salary": 250,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师（2022届）",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "驻场运维实习工程师",
+        "education": "大专",
+        "city": "北京",
+        "salary": 125,
+        "time": "6"
+    },
+    {
+        "positionName": "开发运维工程师实习生",
+        "education": "本科",
+        "city": "上海",
+        "salary": 250,
+        "time": "6"
+    },
+    {
+        "positionName": "系统运维工程师实习生",
+        "education": "本科",
+        "city": "上海",
+        "salary": 250,
+        "time": "6"
+    },
+    {
+        "positionName": "IT桌面运维实习工程师",
+        "education": "大专",
+        "city": "上海",
+        "salary": 125,
+        "time": "6"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "本科",
+        "city": "广州",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "​运维工程师（JS22013）",
+        "education": "大专",
+        "city": "成都",
+        "salary": 300,
+        "time": "6"
+    },
+    {
+        "positionName": "机械工艺工程师实习生",
+        "education": "硕士",
+        "city": "深圳",
+        "salary": 350,
+        "time": "3"
+    },
+    {
+        "positionName": "IT运维工程师-实习生（2022届）",
+        "education": "大专",
+        "city": "张家口",
+        "salary": 135,
+        "time": "3"
+    },
+    {
+        "positionName": "devops（自动化）运维工程师-intern",
+        "education": "本科",
+        "city": "北京",
+        "salary": 175,
+        "time": "12"
+    },
+    {
+        "positionName": "运维服务工程师(实习生 )",
+        "education": "本科",
+        "city": "上海",
+        "salary": 165,
+        "time": "3"
+    },
+    {
+        "positionName": "ITS 运维工程师实习生",
+        "education": "本科",
+        "city": "重庆",
+        "salary": 135,
+        "time": "3"
+    },
+    {
+        "positionName": "桌面运维实习生",
+        "education": "不限",
+        "city": "北京",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "机械设计实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": 165,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "本科",
+        "city": "广州",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "运维咨询工程师-电气水暖",
+        "education": "本科",
+        "city": "北京",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "运维工程师实习生",
+        "education": "本科",
+        "city": "广州",
+        "salary": 135,
+        "time": "6"
+    },
+    {
+        "positionName": "大数据运维实习工程师",
+        "education": "本科",
+        "city": "杭州",
+        "salary": "500",
+        "time": "3"
+    },
+    {
+        "positionName": "系统运维工程师（虚拟化/存储方向）",
+        "education": "本科",
+        "city": "上海",
+        "salary": 175,
+        "time": "6"
+    },
+    {
+        "positionName": "桌面运维实习生",
+        "education": "不限",
+        "city": "北京",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "机械设计实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": 165,
+        "time": "3"
+    },
+    {
+        "positionName": "物理检测工程师助理",
+        "education": "大专",
+        "city": "深圳",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "运维开发工程师(2022届春招)J10884",
+        "education": "本科",
+        "city": "广州",
+        "salary": 105,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生（23届）",
+        "education": "本科",
+        "city": "广州",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "机器人交付运维工程师",
+        "education": "大专",
+        "city": "成都",
+        "salary": 90,
+        "time": "3"
+    },
+    {
+        "positionName": "【实习】运维工程师（广州）",
+        "education": "大专",
+        "city": "广州",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "​化学工程师实习生",
+        "education": "大专",
+        "city": "深圳",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "IT运维工程师实习生",
+        "education": "本科",
+        "city": "重庆",
+        "salary": 125,
+        "time": "6"
+    },
+    {
+        "positionName": "监控实习工程师",
+        "education": "大专",
+        "city": "上海",
+        "salary": 135,
+        "time": "3"
+    },
+    {
+        "positionName": "网络安全运维工程师（实习生）",
+        "education": "大专",
+        "city": "上海",
+        "salary": 110,
+        "time": "6"
+    },
+    {
+        "positionName": "设施运维工程师-实习生（2022届）",
+        "education": "大专",
+        "city": "张家口",
+        "salary": 135,
+        "time": "6"
+    },
+    {
+        "positionName": "Linux服务器技术运维【柠檬微趣】",
+        "education": "本科",
+        "city": "北京",
+        "salary": 400,
+        "time": "3"
+    },
+    {
+        "positionName": "linux运维实习",
+        "education": "不限",
+        "city": "广州",
+        "salary": 115,
+        "time": "3"
+    },
+    {
+        "positionName": "​CAE分析（物流仿真方向）实习生",
+        "education": "硕士",
+        "city": "上海",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "CAE分析实习生",
+        "education": "硕士",
+        "city": "上海",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "机械工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 350,
+        "time": "3"
+    },
+    {
+        "positionName": "专利工程师",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 135,
+        "time": "6"
+    },
+    {
+        "positionName": "维修工程师",
+        "education": "大专",
+        "city": "上海",
+        "salary": 175,
+        "time": "5"
+    },
+    {
+        "positionName": "结构工程师",
+        "education": "不限",
+        "city": "深圳",
+        "salary": 240,
+        "time": "3"
+    },
+    {
+        "positionName": "设备工程师",
+        "education": "本科",
+        "city": "天津",
+        "salary": 325,
+        "time": "3"
+    },
+    {
+        "positionName": "运维专员",
+        "education": "本科",
+        "city": "上海",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "英思科-工程师助理",
+        "education": "本科",
+        "city": "上海",
+        "salary": 165,
+        "time": "3"
+    },
+    {
+        "positionName": "工艺工程师",
+        "education": "本科",
+        "city": "东莞",
+        "salary": 150,
+        "time": "6"
+    },
+    {
+        "positionName": "精密光机工程师",
+        "education": "硕士",
+        "city": "上海",
+        "salary": 325,
+        "time": "4"
+    },
+    {
+        "positionName": "实习项目工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "研发工程师JAVA",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 350,
+        "time": "3"
+    },
+    {
+        "positionName": "临床技术工程师",
+        "education": "本科",
+        "city": "天津",
+        "salary": 135,
+        "time": "5"
+    },
+    {
+        "positionName": "临床技术工程师",
+        "education": "大专",
+        "city": "徐州",
+        "salary": 165,
+        "time": "4"
+    },
+    {
+        "positionName": "临床技术工程师",
+        "education": "大专",
+        "city": "南通",
+        "salary": 165,
+        "time": "5"
+    },
+    {
+        "positionName": "标准工程师",
+        "education": "硕士",
+        "city": "北京",
+        "salary": 225,
+        "time": "3"
+    },
+    {
+        "positionName": "前端工程师",
+        "education": "本科",
+        "city": "全国",
+        "salary": 100,
+        "time": "3"
+    },
+    {
+        "positionName": "图像算法工程师",
+        "education": "硕士",
+        "city": "北京",
+        "salary": 250,
+        "time": "8"
+    },
+    {
+        "positionName": "算法工程师实习生",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 400,
+        "time": "3"
+    },
+    {
+        "positionName": "CAE碰撞安全工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 110,
+        "time": "12"
+    },
+    {
+        "positionName": "2022暑期实习-服务工程师",
+        "education": "本科",
+        "city": "无锡",
+        "salary": 135,
+        "time": "2"
+    },
+    {
+        "positionName": "2022 暑期实习-仿真工程师",
+        "education": "硕士",
+        "city": "武汉",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "2022 暑期实习-可靠性工程师",
+        "education": "硕士",
+        "city": "武汉",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "无人车决策工程师",
+        "education": "硕士",
+        "city": "北京",
+        "salary": 300,
+        "time": "6"
+    },
+    {
+        "positionName": "算法工程师（实习生）",
+        "education": "本科",
+        "city": "北京",
+        "salary": 215,
+        "time": "3"
+    },
+    {
+        "positionName": "后端开发工程师",
+        "education": "本科",
+        "city": "南宁",
+        "salary": 100,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生（直播通信方向）",
+        "education": "大专",
+        "city": "重庆",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "网络安全工程师-安全运维方向",
+        "education": "本科",
+        "city": "北京",
+        "salary": 160,
+        "time": "3"
+    },
+    {
+        "positionName": "数据运维ERP工程师/数据分析实习生",
+        "education": "本科",
+        "city": "嘉兴",
+        "salary": 275,
+        "time": "4"
+    },
+    {
+        "positionName": "智能工厂项目工程师",
+        "education": "本科",
+        "city": "常州",
+        "salary": 75,
+        "time": "3"
+    },
+    {
+        "positionName": "软件测试实习工程师",
+        "education": "本科",
+        "city": "常州",
+        "salary": 65,
+        "time": "3"
+    },
+    {
+        "positionName": "C++开发实习工程师",
+        "education": "不限",
+        "city": "上海",
+        "salary": 400,
+        "time": "6"
+    },
+    {
+        "positionName": "DevOps工程师--战略实习生",
+        "education": "本科",
+        "city": "苏州",
+        "salary": 225,
+        "time": "3"
+    },
+    {
+        "positionName": "液压结构设计工程师",
+        "education": "本科",
+        "city": "南京",
+        "salary": 100,
+        "time": "3"
+    },
+    {
+        "positionName": "深度学习模型优化工程师",
+        "education": "硕士",
+        "city": "北京",
+        "salary": 300,
+        "time": "3"
+    },
+    {
+        "positionName": "机器视觉算法实习工程师",
+        "education": "硕士",
+        "city": "北京",
+        "salary": 215,
+        "time": "6"
+    },
+    {
+        "positionName": "智能工厂嵌入式硬件工程师",
+        "education": "本科",
+        "city": "常州",
+        "salary": 75,
+        "time": "3"
+    },
+    {
+        "positionName": "WEB后端系统开发工程师",
+        "education": "本科",
+        "city": "常州",
+        "salary": 115,
+        "time": "3"
+    },
+    {
+        "positionName": "智能工厂PHP实习工程师",
+        "education": "本科",
+        "city": "常州",
+        "salary": 115,
+        "time": "3"
+    },
+    {
+        "positionName": "量化系统工程师",
+        "education": "本科",
+        "city": "北京",
+        "salary": 225,
+        "time": "3"
+    },
+    {
+        "positionName": "临床技术工程师",
+        "education": "本科",
+        "city": "北京",
+        "salary": 135,
+        "time": "5"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "本科",
+        "city": "成都",
+        "salary": 200,
+        "time": "3"
+    },
+    {
+        "positionName": "Assistant of System Engineer",
+        "education": "硕士",
+        "city": "苏州",
+        "salary": 165,
+        "time": "4"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "不限",
+        "city": "杭州",
+        "salary": 125,
+        "time": "6"
+    },
+    {
+        "positionName": "机械设计工程师",
+        "education": "不限",
+        "city": "苏州",
+        "salary": 160,
+        "time": "12"
+    },
+    {
+        "positionName": "阿里巴巴手猫团队Java工程师实习",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 325,
+        "time": "3"
+    },
+    {
+        "positionName": "web前端开发工程师【柠檬微趣】",
+        "education": "本科",
+        "city": "北京",
+        "salary": 450,
+        "time": "3"
+    },
+    {
+        "positionName": "C++服务器开发工程师【柠檬微趣】",
+        "education": "本科",
+        "city": "北京",
+        "salary": 450,
+        "time": "3"
+    },
+    {
+        "positionName": "智能工厂WEB前端实习工程师",
+        "education": "本科",
+        "city": "常州",
+        "salary": 115,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "本科",
+        "city": "合肥",
+        "salary": 100,
+        "time": "3"
+    },
+    {
+        "positionName": "瑞淀光学系统-AOI设备工程师实习生",
+        "education": "本科",
+        "city": "上海",
+        "salary": "250",
+        "time": "3"
+    },
+    {
+        "positionName": "CNC Process Intern 工艺实习生",
+        "education": "不限",
+        "city": "苏州",
+        "salary": "150",
+        "time": "6"
+    },
+    {
+        "positionName": "CAE工程师",
+        "education": "硕士",
+        "city": "北京",
+        "salary": 75,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "本科",
+        "city": "上海",
+        "salary": 225,
+        "time": "6"
+    },
+    {
+        "positionName": "运维开发实习生",
+        "education": "不限",
+        "city": "武汉",
+        "salary": 125,
+        "time": "12"
+    },
+    {
+        "positionName": "区块链智能合约开发工程师--实习生",
+        "education": "不限",
+        "city": "上海",
+        "salary": 400,
+        "time": "6"
+    },
+    {
+        "positionName": "模具实习工程师",
+        "education": "不限",
+        "city": "苏州",
+        "salary": 375,
+        "time": "6"
+    },
+    {
+        "positionName": "软件开发实习生（工业控制）",
+        "education": "本科",
+        "city": "常州",
+        "salary": 150,
+        "time": "5"
+    },
+    {
+        "positionName": "西云数据-AWS（亚马逊云计算）中国区技术支持工程师",
+        "education": "本科",
+        "city": "北京",
+        "salary": 275,
+        "time": "3"
+    },
+    {
+        "positionName": "电子硬件实习工程师",
+        "education": "大专",
+        "city": "苏州",
+        "salary": 375,
+        "time": "6"
+    },
+    {
+        "positionName": "IT运维实习生",
+        "education": "本科",
+        "city": "东莞",
+        "salary": 250,
+        "time": "3"
+    },
+    {
+        "positionName": "运维管培生",
+        "education": "本科",
+        "city": "肇庆",
+        "salary": 90,
+        "time": "3"
+    },
+    {
+        "positionName": "系统运维实习生",
+        "education": "大专",
+        "city": "广州",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "应用运维实习生",
+        "education": "本科",
+        "city": "广州",
+        "salary": 180,
+        "time": "3"
+    },
+    {
+        "positionName": "IT运维实习生",
+        "education": "大专",
+        "city": "宁波",
+        "salary": 125,
+        "time": "12"
+    },
+    {
+        "positionName": "SRE运维实习生",
+        "education": "本科",
+        "city": "全国",
+        "salary": 450,
+        "time": "3"
+    },
+    {
+        "positionName": "slam算法实习工程师",
+        "education": "大专",
+        "city": "苏州",
+        "salary": 250,
+        "time": "6"
+    },
+    {
+        "positionName": "桌面运维实习生",
+        "education": "大专",
+        "city": "西安",
+        "salary": 135,
+        "time": "3"
+    },
+    {
+        "positionName": "实验室工程师",
+        "education": "硕士",
+        "city": "苏州",
+        "salary": "180",
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": 200,
+        "time": "3"
+    },
+    {
+        "positionName": "云计算全栈工程师（技术开发/测试/运维）",
+        "education": "本科",
+        "city": "成都",
+        "salary": 140,
+        "time": "6"
+    },
+    {
+        "positionName": "研发工程师",
+        "education": "本科",
+        "city": "苏州",
+        "salary": 350,
+        "time": "3"
+    },
+    {
+        "positionName": "技术运维（实习生）",
+        "education": "不限",
+        "city": "广州",
+        "salary": 135,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "大专",
+        "city": "南京",
+        "salary": 135,
+        "time": "3"
+    },
+    {
+        "positionName": "电子软件实习工程师",
+        "education": "大专",
+        "city": "苏州",
+        "salary": 375,
+        "time": "6"
+    },
+    {
+        "positionName": "RPA运维实习生",
+        "education": "不限",
+        "city": "上海",
+        "salary": 165,
+        "time": "4"
+    },
+    {
+        "positionName": "IT运维实习生 ",
+        "education": "不限",
+        "city": "北京",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "CND运维实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": 250,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": 175,
+        "time": "4"
+    },
+    {
+        "positionName": "研发工程师（医疗器械）",
+        "education": "硕士",
+        "city": "上海",
+        "salary": 225,
+        "time": "3"
+    },
+    {
+        "positionName": "临床技术工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 135,
+        "time": "5"
+    },
+    {
+        "positionName": "IT运维实习生",
+        "education": "本科",
+        "city": "西安",
+        "salary": 90,
+        "time": "6"
+    },
+    {
+        "positionName": "系统服务工程师（武汉地区）",
+        "education": "大专",
+        "city": "武汉",
+        "salary": 160,
+        "time": "6"
+    },
+    {
+        "positionName": "R3635195  Engineer - Drafting",
+        "education": "本科",
+        "city": "天津",
+        "salary": 135,
+        "time": "3"
+    },
+    {
+        "positionName": "网络工程师实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": "150",
+        "time": "3"
+    },
+    {
+        "positionName": "驻点弱电运维实习生",
+        "education": "大专",
+        "city": "杭州",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "CRM系统运维实习生",
+        "education": "本科",
+        "city": "上海",
+        "salary": "300",
+        "time": "3"
+    },
+    {
+        "positionName": "infra运维实习生—武汉",
+        "education": "本科",
+        "city": "武汉",
+        "salary": 165,
+        "time": "4"
+    },
+    {
+        "positionName": "Process Tooling Intern工装夹具实习",
+        "education": "不限",
+        "city": "苏州",
+        "salary": "150",
+        "time": "6"
+    },
+    {
+        "positionName": "网络运维实习生",
+        "education": "大专",
+        "city": "贵阳",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "机械测试工程实习生",
+        "education": "本科",
+        "city": "苏州",
+        "salary": 165,
+        "time": "4"
+    },
+    {
+        "positionName": "新能源运维师实习生",
+        "education": "不限",
+        "city": "天津",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "IT运维实习生",
+        "education": "本科",
+        "city": "上海",
+        "salary": 165,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生（武汉）",
+        "education": "大专",
+        "city": "武汉",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "桌面运维实习生",
+        "education": "大专",
+        "city": "北京",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "售后技术支持工程师",
+        "education": "大专",
+        "city": "西安",
+        "salary": 135,
+        "time": "6"
+    },
+    {
+        "positionName": "全栈工程师",
+        "education": "本科",
+        "city": "北京",
+        "salary": 25,
+        "time": "1"
+    },
+    {
+        "positionName": "新工艺开发工程师",
+        "education": "本科",
+        "city": "苏州",
+        "salary": 150,
+        "time": "6"
+    },
+    {
+        "positionName": "芯片分析工程师实习",
+        "education": "本科",
+        "city": "西安",
+        "salary": 240,
+        "time": "4"
+    },
+    {
+        "positionName": "芯片分析工程师实习生",
+        "education": "本科",
+        "city": "广州",
+        "salary": 250,
+        "time": "6"
+    },
+    {
+        "positionName": "实习生（资料员）",
+        "education": "本科",
+        "city": "厦门",
+        "salary": 225,
+        "time": "12"
+    },
+    {
+        "positionName": "网络运维工程实习生",
+        "education": "大专",
+        "city": "武汉",
+        "salary": 240,
+        "time": "3"
+    },
+    {
+        "positionName": "生产储备干部",
+        "education": "大专",
+        "city": "广州",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "储备机械工程师",
+        "education": "本科",
+        "city": "上海",
+        "salary": 125,
+        "time": "6"
+    },
+    {
+        "positionName": "ACIC Industrial 5G Network Validation & Certification Intern",
+        "education": "本科",
+        "city": "深圳",
+        "salary": 165,
+        "time": "6"
+    },
+    {
+        "positionName": "【23届实习】运维实习生",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "运维开发建设实习生(J12911)",
+        "education": "不限",
+        "city": "上海",
+        "salary": 190,
+        "time": "2"
+    },
+    {
+        "positionName": "机电工程实习生",
+        "education": "不限",
+        "city": "杭州",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "售前工程师（郑州）(J13220)",
+        "education": "本科",
+        "city": "郑州",
+        "salary": 200,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "不限",
+        "city": "郑州",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "产品研发工程师实习生",
+        "education": "本科",
+        "city": "武汉",
+        "salary": 110,
+        "time": "6"
+    },
+    {
+        "positionName": "语言知识工程师（阿拉伯语）",
+        "education": "不限",
+        "city": "北京",
+        "salary": 225,
+        "time": "3"
+    },
+    {
+        "positionName": "实习-实施运维-济南(J10305)",
+        "education": "不限",
+        "city": "济南",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "技术管培生（研发工艺方向）",
+        "education": "本科",
+        "city": "上海",
+        "salary": "200",
+        "time": "6"
+    },
+    {
+        "positionName": "交付运维实习生（23届）",
+        "education": "本科",
+        "city": "北京",
+        "salary": 200,
+        "time": "6"
+    },
+    {
+        "positionName": "3D渲染开发实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": 200,
+        "time": "3"
+    },
+    {
+        "positionName": "EBG-运维实习生（教学）",
+        "education": "本科",
+        "city": "杭州",
+        "salary": 165,
+        "time": "4"
+    },
+    {
+        "positionName": "技术支持工程师(郑州）",
+        "education": "不限",
+        "city": "郑州",
+        "salary": 175,
+        "time": "6"
+    },
+    {
+        "positionName": "IT实习生",
+        "education": "不限",
+        "city": "北京",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "桌面运维工程实习生",
+        "education": "本科",
+        "city": "武汉",
+        "salary": 110,
+        "time": "3"
+    },
+    {
+        "positionName": "ACIC Industrial 5G Network Validation & Certification Intern",
+        "education": "本科",
+        "city": "深圳",
+        "salary": 165,
+        "time": "6"
+    },
+    {
+        "positionName": "基础架构运维工程实习生",
+        "education": "本科",
+        "city": "成都",
+        "salary": 275,
+        "time": "6"
+    },
+    {
+        "positionName": "全栈工程师",
+        "education": "本科",
+        "city": "北京",
+        "salary": 25,
+        "time": "1"
+    },
+    {
+        "positionName": "语言知识工程师（阿拉伯语）",
+        "education": "不限",
+        "city": "北京",
+        "salary": 225,
+        "time": "3"
+    },
+    {
+        "positionName": "机电工程实习生",
+        "education": "不限",
+        "city": "杭州",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "新工艺开发工程师",
+        "education": "本科",
+        "city": "苏州",
+        "salary": 150,
+        "time": "6"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "本科",
+        "city": "广州",
+        "salary": 175,
+        "time": "3"
+    },
+    {
+        "positionName": "技术管培生（研发工艺方向）",
+        "education": "本科",
+        "city": "上海",
+        "salary": "200",
+        "time": "6"
+    },
+    {
+        "positionName": "3D渲染开发实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": 200,
+        "time": "3"
+    },
+    {
+        "positionName": "IT运维管培生",
+        "education": "不限",
+        "city": "北京",
+        "salary": 165,
+        "time": "3"
+    },
+    {
+        "positionName": "电子电气实习生",
+        "education": "本科",
+        "city": "北京",
+        "salary": 160,
+        "time": "3"
+    },
+    {
+        "positionName": "【蚂蚁集团】技术风险云平台SRE开发工程师",
+        "education": "不限",
+        "city": "全国",
+        "salary": 300,
+        "time": "3"
+    },
+    {
+        "positionName": "运维实习生",
+        "education": "本科",
+        "city": "南京",
+        "salary": 135,
+        "time": "4"
+    },
+    {
+        "positionName": "云计算全栈工程师（技术开发/测试/运维）",
+        "education": "本科",
+        "city": "成都",
+        "salary": 140,
+        "time": "6"
+    },
+    {
+        "positionName": "IT运维实习生",
+        "education": "大专",
+        "city": "上海",
+        "salary": 160,
+        "time": "3"
+    },
+    {
+        "positionName": "产品研发工程师实习生",
+        "education": "本科",
+        "city": "武汉",
+        "salary": 110,
+        "time": "6"
+    },
+    {
+        "positionName": "IT运维（helpdesk）",
+        "education": "大专",
+        "city": "上海",
+        "salary": 150,
+        "time": "3"
+    },
+    {
+        "positionName": "IT运维实习生",
+        "education": "不限",
+        "city": "上海",
+        "salary": 190,
+        "time": "5"
+    },
+    {
+        "positionName": "桌面运维实习生",
+        "education": "大专",
+        "city": "苏州",
+        "salary": 125,
+        "time": "3"
+    },
+    {
+        "positionName": "机械工程师实习生",
+        "education": "本科",
+        "city": "上海",
+        "salary": 135,
+        "time": "3"
+    }
+]
